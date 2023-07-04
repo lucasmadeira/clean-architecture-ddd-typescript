@@ -1,4 +1,4 @@
-# INSTRUCÕES
+# PROJETO EM TYPESCRIPT QUE USA A CLEAN ARCHITECTURE + DDD PARA O DESIGN DA APPLICAÇÂO
 
 ### Abra um terminal no diretório raiz do seu projeto e execute o seguinte comando para construir a imagem Docker:
 
