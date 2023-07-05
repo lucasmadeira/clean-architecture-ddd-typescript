@@ -4,7 +4,7 @@ import ProductRepository from "../../../infrastructure/product/repository/sequel
 import CreateProductUseCase from "./create.product.usecase";
 
 
-describe("Integration test create customer use case", () => {
+describe("Integration test create product use case", () => {
 
     let sequelize : Sequelize;
 
