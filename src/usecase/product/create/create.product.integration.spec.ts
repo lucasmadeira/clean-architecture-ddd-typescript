@@ -25,6 +25,9 @@ describe("Integration test create product use case", () => {
         await sequelize.close()
     });
 
+     
+
+
     it("should create a product", async() =>{
         const productRepository = new ProductRepository();
         const useCase = new CreateProductUseCase(productRepository);
