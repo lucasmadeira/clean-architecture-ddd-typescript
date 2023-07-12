@@ -16,4 +16,4 @@ RUN npm install
 
 
 # Define o comando para iniciar o aplicativo
-CMD ["npm", "test", "__tests__"]
+CMD ["npm", "test", "product.e2e.spec.ts"]
