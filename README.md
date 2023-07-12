@@ -8,6 +8,6 @@
 
 #### docker run <nome_da_imagem>
 
-### Ao executar, a imagem vai rodar os testes dos usecases. 
+### Ao executar, a imagem vai rodar os testes E2E. 
 
 
